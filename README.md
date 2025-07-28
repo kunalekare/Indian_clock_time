@@ -1,4 +1,4 @@
-# 🕰️ Indian Clock
+# 🕰️ analoog Clock
 
 A simple, fully functional **analog Indian-style clock** made with **HTML**, **CSS**, and **JavaScript**. The clock dynamically displays the current time and is styled to mimic a traditional analog wall clock.
 
